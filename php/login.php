@@ -25,6 +25,6 @@
             echo "$email - This email not Exist!";
         }
     }else{
-        echo "All input fields are required!";
+        echo " All input fields are required!";
     }
 ?>
